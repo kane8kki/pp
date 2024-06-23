@@ -8,5 +8,5 @@ document.querySelectorAll('nav a').forEach(anchor => {
 });
 
 document.getElementById('downloadButton').addEventListener('click', function() {
-    window.location.href = 'path_to_your_game/PoisonPaddle.zip';
+    window.location.href = 'PoisonPaddle.zip';
 });
